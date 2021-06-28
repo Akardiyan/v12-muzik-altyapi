@@ -1,0 +1,32 @@
+{
+  "name": "Akardiyan V12 Müzik",
+  "version": "0.0.1",
+  "description": "Discord.js V12 Müzik Altyapı",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "discord.js": "^12.4.0",
+    "fs": "^0.0.2",
+    "path": "^0.12.7",
+    "simple-youtube-api": "^5.2.1",
+    "@discordjs/opus": "^0.3.2",
+    "genius-lyrics": "^4.0.0",
+    "ytdl-core": "^4.0.5",
+    "ytdl-core-discord": "^1.2.4"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/join/3678810c-2f78-4117-81c2-e97f416996bb"
+  },
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ],
+  "author": "Akardiyan"
+}
